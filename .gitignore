@@ -1,0 +1,9 @@
+# .gitignore
+__pycache__
+.vscode
+*.pyc
+*.csv
+*.pickle
+*.h5
+*.weights
+backup
